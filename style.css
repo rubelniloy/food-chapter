@@ -6,6 +6,9 @@ body{
 h1{
     font-size: 100px;
 }
+h2{
+    font-size: 80px;
+}
 .red{
     color: red;
 }
@@ -27,8 +30,16 @@ section{
     font-weight: 500;
     color: wheat;
     text-decoration: none;
-   background-image: linear-gradient(blue, red);
+   background-image: linear-gradient(blue, rgb(0, 255, 234));
     padding: 15px 30px;
     border-radius: 25px;
     
+}
+.about{
+   background-image: url(/Frame\ 58.jpg);
+   background-position: 0;
+   background-repeat: no-repeat;
+   background-size: 150%;i
+   
+
 }
