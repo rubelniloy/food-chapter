@@ -1,0 +1,34 @@
+body{
+    font-family: 'Lobster', cursive;
+    
+}
+
+h1{
+    font-size: 100px;
+}
+.red{
+    color: red;
+}
+p{
+    font-size: 30px;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding: 40px;
+    padding-top: 100px;
+}
+.half-width img{
+    width: 500px;
+}
+.link-button{
+    font-weight: 500;
+    color: wheat;
+    text-decoration: none;
+   background-image: linear-gradient(blue, red);
+    padding: 15px 30px;
+    border-radius: 25px;
+    
+}
