@@ -8,14 +8,20 @@ h1{
 }
 h2{
     font-size: 80px;
+    text-align: center;
+}
+h3{
+    font-size: 50px;
 }
 .red{
     color: red;
 }
 p{
-    font-size: 30px;
+    font-size: 25px;
+    text-align: center
+
 }
-section{
+.flexble-container{
     display: flex;
 }
 .half-width{
@@ -25,6 +31,7 @@ section{
 }
 .half-width img{
     width: 500px;
+    padding-top: ;
 }
 .link-button{
     font-weight: 500;
@@ -43,3 +50,35 @@ section{
    
 
 }
+.Recipes{
+
+    text-alin: center;
+}
+.Recipes-food img{
+    width: 300px;
+    border-radius: 10px;
+    
+}
+.food{
+    width: 30%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 5%;
+    padding: 20px;
+   
+    box-shadow: 20px 20px 20px 30px gray;
+    
+}
+footer{
+    color: rgb(124, 111, 111);
+    background-color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+text-align: center;
+}
+.of-white{
+    color: rgb(190, 190, 226);
+}
+.white{
+    color: whitesmoke;
+}
+
